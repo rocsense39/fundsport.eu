@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>FundSport – InnovateSport</title>
+  <meta name="description" content="FundSport – inițiativă pentru inovație și educație sportivă.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      text-align: center;
+      padding: 10vh 5vw;
+      background: #0f172a;
+      color: #e5e7eb;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 14px 28px;
+      background: #22c55e;
+      color: #022c22;
+      text-decoration: none;
+      font-weight: 600;
+      border-radius: 10px;
+    }
+    a.button:hover {
+      background: #16a34a;
+    }
+  </style>
+</head>
+<body>
+  <h1>FundSport</h1>
+  <p>Platformă pentru inovație, educație și performanță în sport.</p>
+  <a class="button" href="https://icourses.wixsite.com/innovatesport">
+    Intră pe platformă
+  </a>
+</body>
+</html>
